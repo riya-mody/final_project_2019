@@ -10,4 +10,4 @@ happyfamily.lm<-lm(Family~Happiness.Score,data=happiness) #Linear model
 summary(happyfamily.lm) #Shows stats
 abline(happyfamily.lm,col="red") #Inserts regression line for correlation 
 
-268 #Page for correlation 
+#268 #Page for correlation 
